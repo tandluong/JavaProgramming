@@ -1,5 +1,5 @@
 import java.util.*;
-public class ComputeChange {
+public class Exercise3_7 {
     public static void main(String[] args) {
         // Create Scanner object
         Scanner input = new Scanner(System.in);
@@ -32,10 +32,25 @@ public class ComputeChange {
 
         // Display result
         System.out.println("Your amount: $" + amount + " consists of: ");
-        System.out.println("    " + numberOfDollars + " dollars");
-        System.out.println("    " + numberOfQuarters + " quarters");
-        System.out.println("    " + numberOfDimes + " dimes");
-        System.out.println("    " + numberOfNickels + " nickels");
-        System.out.println("    " + numberOfPennies + " pennies");
+        if (numberOfDollars == 1)
+            System.out.print(numberOfDollars + " dollar");
+        else if (numberOfDollars > 1)
+            System.out.print(numberOfDollars + " dollars");
+        if (numberOfQuarters == 1)
+            System.out.print(" and " + numberOfQuarters + " quarter");
+        else if (numberOfQuarters > 1)
+            System.out.print(" and " + numberOfQuarters + " quarters");
+        if (numberOfDimes == 1)
+            System.out.print(" and " + numberOfDimes + " dime");
+        else if (numberOfDimes > 1)
+            System.out.print(" and " + numberOfDimes + " dimes");
+        if (numberOfNickels == 1)
+            System.out.print(" and " + numberOfNickels + " nickel");
+        else if (numberOfNickels > 1)
+            System.out.print(" and " + numberOfNickels + " nickels");
+        if (numberOfPennies == 1)
+            System.out.print(" and " + numberOfPennies + " penny");
+        else if (numberOfPennies > 1)
+            System.out.print(" and " + numberOfPennies + " pennies");
     }
 }
