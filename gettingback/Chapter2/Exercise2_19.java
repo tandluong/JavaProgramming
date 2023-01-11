@@ -15,9 +15,11 @@ public class Exercise2_19 {
 
         // calculate the total distance of all the sides, s
         /* How do one come up with the formula for the sides?
-        Picture a triangle with 3 points at its tip. A triangle only has 3 sides. ( /_\ )
+        Picture a triangle with 3 points at its tips.
+        A triangle only has 3 sides. ( /_\ )
         We need to find the distance of each of its sides.
-        Assume (x1, y1) to be at the point at the top, (x2, y2) at bottom left, and (x3, y3) bottom right.
+        Assume (x1, y1) to be at the point at the top,
+        (x2, y2) at bottom left, and (x3, y3) bottom right.
         Therefore, the distance for side1 can be the distance from top to the bottom left ( / ) of the triangle.
         side2 can be from the bottom left to the bottom right ( _ ).
         lastly, side3 can be the bottom right to the top ( \ ) */
