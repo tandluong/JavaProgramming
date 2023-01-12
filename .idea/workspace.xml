@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffbe8294-c2b0-4844-a957-7169d56ffef8" name="Changes" comment="Started Chapter 4">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/AdditionQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ChineseZodiac.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeAndInterpretBMI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeAngles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeAreaWithConsoleInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeAreaWithConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeAverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeLoan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ComputeTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/DisplayTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise2_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise3_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise4_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise4_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise4_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Exercise9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/FahrenheitToCelsius.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/FormatDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/GuessBirthday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/HexDigit2Dec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Lottery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/LotteryUsingStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/MilesToKilometeres.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/OrderTwoCities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/SalesTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/ShowCurrentTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/SimpleIfDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/SubtractionQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/TestBooleanOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/Welcome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaProgramming/WelcomeInThreeMessages.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JEZVefub83YXbWPXVlEyHbtUKm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tan/Documents/GitHub/JavaProgramming&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Exercise4_15">
+    <configuration name="Exercise4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_11" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_12" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_13" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_14" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4_15" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise4_15" />
+        <item itemvalue="Application.Exercise4_14" />
+        <item itemvalue="Application.Exercise4_13" />
+        <item itemvalue="Application.Exercise4_12" />
+        <item itemvalue="Application.Exercise4_11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffbe8294-c2b0-4844-a957-7169d56ffef8" name="Changes" comment="" />
+      <created>1671645227497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671645227497</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Completed Chapter 2">
+      <created>1671649645915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671649645915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed Chapter 3 Exercises">
+      <created>1673304001334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673304001334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Started Chapter 4">
+      <created>1673400269875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673400269875</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Chapter 2" />
+    <MESSAGE value="Completed Chapter 3 Exercises" />
+    <MESSAGE value="Started Chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Chapter 4" />
+  </component>
+</project>
