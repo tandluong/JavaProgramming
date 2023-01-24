@@ -12,6 +12,10 @@ public class Exercise3_21 {
         System.out.print("Enter the day of the month: 1-31: ");
         int day = input.nextInt();
 
+        // Check if user input is within range of suggested month and day
+        boolean validMonth = month > 0 && month <= 12;
+        boolean validDay = day > 0 && day <= 31;
+
         // Check if month is 1 or 2
         if (month <= 2 && month > 0) {
             month += 12;
@@ -24,20 +28,16 @@ public class Exercise3_21 {
         int k = year % 100;
         int h = (q + (26 * (month + 1) / 10) + (k) + (k / 4) + (j / 4) + (5 * j)) % 7;
 
-        // Check if user input is within range of suggested month and day
-        boolean validMonth = month > 0 && month <= 12;
-        boolean validDay = day > 1 && day <= 31;
-
         if (validMonth && validDay) {
             // Display Result
             switch (h) {
-                case 0: System.out.println("Day of the week is Saturday"); break;
-                case 1: System.out.println("Day of the week is Sunday"); break;
-                case 2: System.out.println("Day of the week is Monday"); break;
-                case 3: System.out.println("Day of the week is Tuesday"); break;
-                case 4: System.out.println("Day of the week is Wednesday"); break;
-                case 5: System.out.println("Day of the week is Thursday"); break;
-                case 6: System.out.println("Day of the week is Friday");
+                case 0 -> System.out.println("Day of the week is Saturday");
+                case 1 -> System.out.println("Day of the week is Sunday");
+                case 2 -> System.out.println("Day of the week is Monday");
+                case 3 -> System.out.println("Day of the week is Tuesday");
+                case 4 -> System.out.println("Day of the week is Wednesday");
+                case 5 -> System.out.println("Day of the week is Thursday");
+                case 6 -> System.out.println("Day of the week is Friday");
             }
         }
         // If user input is invalid, then let the user know the reason
