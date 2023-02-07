@@ -13,7 +13,7 @@ public class Exercise5_39 {
             // If the sales is greater than 15,000,
             // then calculate the lower commissioned rates first
             double nextSales = sales;
-            if (nextSales > 10000) {
+            if (nextSales >= 10000) {
                 commission += 5000 * commissionRate;
                 commission += 5000 * (commissionRate + 0.02);
                 nextSales -= 10000;

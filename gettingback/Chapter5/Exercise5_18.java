@@ -44,8 +44,8 @@ public class Exercise5_18 {
                 System.out.print("  ");
             }
             // Without the first loop, the result is the same as pattern A
-            for (int m = 1; m <= i; m++) {
-                System.out.printf("%-2d", m);
+            for (int m = 0; m <= i - 1 ; m++) {
+                System.out.printf("%-2d", i - m);
             }
 
             // Pad the distance between each Pattern
