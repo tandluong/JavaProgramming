@@ -1,5 +1,3 @@
-import java.awt.desktop.QuitEvent;
-
 public class Exercise7_22 {
     public static void main(String[] args) {
         // Declare the number of Queens

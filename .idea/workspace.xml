@@ -4,34 +4,292 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbe8294-c2b0-4844-a957-7169d56ffef8" name="Changes" comment="Completed Chapter 8">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/CircleWithPrivateDataFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/CircleWithStaticMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/SimpleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestChapter9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestCircleWithPrivateDataFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestCircleWithStaticMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestPassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestPoint2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestSimpleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TestTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookExamples/Chapter9/TotalArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ffbe8294-c2b0-4844-a957-7169d56ffef8" name="Changes" comment="Organized Book Examples and Exercises separately">
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Exercise9_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/LinearEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/RegularPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookExercises/Chapter9/StopWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettingback/gettingback.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter1/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter1/Exercise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter2/Exercise2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter2/Exercise2_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter3/Exercise3_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter3/Exercise3_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter4/Exercise4_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter4/Exercise4_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_45.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_48.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter5/Exercise5_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter5/Exercise5_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter6/Exercise6_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter6/Exercise6_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter7/Exercise7_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_23" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter8/Exercise8_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookExercises/Chapter8/Exercise8_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +313,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2JEZVefub83YXbWPXVlEyHbtUKm" />
   <component name="ProjectLevelVcsManager">
@@ -85,6 +343,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BookExamples/Chapter8" />
+      <recent name="$PROJECT_DIR$/BookExamples/Chapter5" />
+      <recent name="$PROJECT_DIR$/BookExmples/Chapter5" />
       <recent name="$PROJECT_DIR$/gettingback/org/openjfx" />
       <recent name="$PROJECT_DIR$/gettingback/Chapter5" />
     </key>
@@ -92,7 +353,42 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestDate">
+  <component name="RunManager" selected="Application.Exercise9_13">
+    <configuration name="Exercise9_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9_10" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9_11" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9_12" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9_13" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9_9" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.openjfx.MainApp" />
       <module name="JavaProgramming" />
@@ -107,56 +403,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestChapter9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestChapter9" />
-      <module name="JavaProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCircleWithPrivateDataFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCircleWithPrivateDataFields" />
-      <module name="JavaProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestDate" />
-      <module name="JavaProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPassObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestPassObject" />
-      <module name="JavaProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TotalArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TotalArea" />
-      <module name="JavaProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.MainApp" />
-      <item itemvalue="Application.TestChapter9" />
-      <item itemvalue="Application.TestCircleWithPrivateDataFields" />
-      <item itemvalue="Application.TestDate" />
-      <item itemvalue="Application.TestPassObject" />
-      <item itemvalue="Application.TotalArea" />
+      <item itemvalue="Application.Exercise9_10" />
+      <item itemvalue="Application.Exercise9_11" />
+      <item itemvalue="Application.Exercise9_12" />
+      <item itemvalue="Application.Exercise9_13" />
+      <item itemvalue="Application.Exercise9_9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDate" />
-        <item itemvalue="Application.TotalArea" />
-        <item itemvalue="Application.TestPassObject" />
-        <item itemvalue="Application.TestChapter9" />
-        <item itemvalue="Application.TestCircleWithPrivateDataFields" />
+        <item itemvalue="Application.Exercise9_13" />
+        <item itemvalue="Application.Exercise9_12" />
+        <item itemvalue="Application.Exercise9_11" />
+        <item itemvalue="Application.Exercise9_10" />
+        <item itemvalue="Application.Exercise9_9" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677173638230</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Organized Book Examples and Exercises separately">
+      <created>1677262275351</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677262275351</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,7 +522,8 @@
     <MESSAGE value="Completed Chapter 6" />
     <MESSAGE value="Completed Chapter 7" />
     <MESSAGE value="Completed Chapter 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Chapter 8" />
+    <MESSAGE value="Organized Book Examples and Exercises separately" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organized Book Examples and Exercises separately" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
