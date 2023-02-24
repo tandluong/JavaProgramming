@@ -11,8 +11,22 @@
       <sourceFolder url="file://$MODULE_DIR$/gettingback/Chapter6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gettingback/Chapter7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gettingback/Chapter8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gettingback/Chapter9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gettingback" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookExamples/Chapter9" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
