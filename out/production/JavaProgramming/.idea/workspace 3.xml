@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffbe8294-c2b0-4844-a957-7169d56ffef8" name="Changes" comment="Completed Chapter 8">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter9/SimpleCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter9/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter9/TestPoint2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter9/TestSimpleCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/Chapter9/TestTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/org/openjfx/FXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/org/openjfx/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/org/openjfx/scene.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gettingback/org/openjfx/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/gettingback/Chapter7/Exercise7_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gettingback/gettingback.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2JEZVefub83YXbWPXVlEyHbtUKm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/tanluong/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/JavaProgramming",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.10819328",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gettingback/org/openjfx" />
+      <recent name="$PROJECT_DIR$/gettingback/Chapter5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.openjfx.MainApp" />
+      <module name="JavaProgramming" />
+      <option name="VM_PARAMETERS" value="--module-path /path/to/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.openjfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleCircle" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPoint2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPoint2D" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimpleCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSimpleCircle" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTV" />
+      <module name="JavaProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="Application.SimpleCircle" />
+      <item itemvalue="Application.TestPoint2D" />
+      <item itemvalue="Application.TestSimpleCircle" />
+      <item itemvalue="Application.TestTV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPoint2D" />
+        <item itemvalue="Application.TestTV" />
+        <item itemvalue="Application.TestSimpleCircle" />
+        <item itemvalue="Application.SimpleCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffbe8294-c2b0-4844-a957-7169d56ffef8" name="Changes" comment="" />
+      <created>1671645227497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671645227497</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Completed Chapter 2">
+      <created>1671649645915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671649645915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed Chapter 3 Exercises">
+      <created>1673304001334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673304001334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Started Chapter 4">
+      <created>1673400269875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673400269875</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Halfway through Chapter 4">
+      <created>1673554557608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673554557608</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed Chapter 4">
+      <created>1673640598612</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673640598612</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Halfway through Chapter 5">
+      <created>1674586931741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674586931741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed Chapter 5">
+      <created>1675199773804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675199773804</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed Chapter 6">
+      <created>1675795025539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675795025539</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Completed Chapter 7">
+      <created>1676418222200</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676418222200</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Completed Chapter 8">
+      <created>1677173638230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677173638230</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Completed Chapter 2" />
+    <MESSAGE value="Completed Chapter 3 Exercises" />
+    <MESSAGE value="Started Chapter 4" />
+    <MESSAGE value="Halfway through Chapter 4" />
+    <MESSAGE value="Completed Chapter 4" />
+    <MESSAGE value="Halfway through Chapter 5" />
+    <MESSAGE value="Completed Chapter 5" />
+    <MESSAGE value="Completed Chapter 6" />
+    <MESSAGE value="Completed Chapter 7" />
+    <MESSAGE value="Completed Chapter 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Chapter 8" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
